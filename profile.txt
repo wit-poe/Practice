@@ -1,0 +1,3 @@
+Name: Niko Omilana 
+Age: 21 
+email: niko@ndl.com 
